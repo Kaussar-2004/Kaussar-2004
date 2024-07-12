@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Kaussar A
 
 Computer science Student @ K Ramakrishnan college of Engineering
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://tenor.com/en-GB/view/animation-cartoons-toons-danny-phantom-danny-fenton-gif-14827989)">                                                
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning Web designing
 - 👯 Love to solve problems
 - 📫 How to reach me :
