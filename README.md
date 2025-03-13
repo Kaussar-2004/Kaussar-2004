@@ -2,7 +2,7 @@
 
 Computer science Student @ K Ramakrishnan college of Engineering
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
-- 🌱 I’m currently learning Web designing
+- 🌱 I’m currently learning Full Stack Development in java
 - 👯 Love to solve problems
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaussar2004/) <a href="https://github.com/Kaussar-2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
